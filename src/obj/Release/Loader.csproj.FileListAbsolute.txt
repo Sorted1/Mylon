@@ -1,0 +1,15 @@
+C:\Users\Eli\Desktop\Mylon - Eulen\Form\obj\Release\Loader.csproj.AssemblyReference.cache
+C:\Users\Eli\Desktop\Mylon - Eulen\Form\obj\Release\Loader.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eli\Desktop\Mylon - Eulen\Form\obj\Release\KeyAuth.Main.resources
+C:\Users\Eli\Desktop\Mylon - Eulen\Form\obj\Release\KeyAuth.Login.resources
+C:\Users\Eli\Desktop\Mylon - Eulen\Form\obj\Release\Steam.UserControl1.resources
+C:\Users\Eli\Desktop\Mylon - Eulen\Form\obj\Release\Steam.UserControl2.resources
+C:\Users\Eli\Desktop\Mylon - Eulen\Form\obj\Release\Loader.csproj.GenerateResource.cache
+C:\Users\Eli\Desktop\Mylon - Eulen\Form\obj\Release\Loader.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Desktop\Mylon - Eulen\Form\obj\Release\Loader.csproj.CopyComplete
+C:\Users\Eli\Desktop\Mylon - Eulen\Form\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Eli\Desktop\Mylon - Eulen\Form\obj\Release\Loader.csproj.Fody.CopyLocal.cache
+C:\Users\Eli\Desktop\Mylon - Eulen\Form\bin\Release\SteamSetup.exe.config
+C:\Users\Eli\Desktop\Mylon - Eulen\Form\bin\Release\SteamSetup.exe
+C:\Users\Eli\Desktop\Mylon - Eulen\Form\obj\Release\SteamSetup.exe
+C:\Users\Eli\Desktop\Mylon - Eulen\Form\obj\Release\Microsoft.Properties.Resources.resources
